@@ -1,0 +1,22 @@
+@font-face {
+  font-family: "TitrWeb";
+  src: url("TitrWeb.woff") format("woff");
+}
+
+@font-face {
+  font-family: "IranianSerifWeb";
+  src: url("IranianSerifWeb.woff") format("woff");
+}
+
+body {
+  background-color: #ffd300;
+  text-align: center;
+}
+
+h1 {
+  font-family: TitrWeb;
+}
+
+p {
+  font-family: IranianSerifWeb; 
+}
